@@ -1,7 +1,8 @@
 from .bayes import (
     bayes_update,
     explain_update,
-    normalize
+    make_bayes_tree,
+    normalize,
 )
 
 from .conditional import (

@@ -62,9 +62,6 @@ def simulate_bayes_binary(
         "table": table,
     }
 
-import numpy as np
-import pandas as pd
-
 
 def simulate_bayes(
     priors: dict[str, float],
