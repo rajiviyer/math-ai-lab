@@ -1,6 +1,6 @@
-# Math Lab
+# Math AI Lab
 
-A personal learning lab for studying probability and statistics through interactive Jupyter notebooks and reusable Python models.
+A personal learning lab for studying mathematics and AI concepts through interactive Jupyter notebooks and reusable Python models.
 
 ## Concepts
 
